@@ -1,0 +1,88 @@
+London Swanwick Control Frequencies
+
+118.400		London Area Control		Sector 14 - Clacton West
+118.480		London Area Control		Sector 14 - Clacton West (S14)
+118.825		London Terminal Control		North East Departures (NE DEPS)
+119.775		London Terminal Control		North West Departures (NW DEPS)
+120.025		London Control		        Standby
+120.175		London Terminal Control		Timba Sector (TIMBA)
+120.475		London Terminal Control		South Standby
+120.525		London Terminal Control		Biggin Sector (BIG)
+121.025		London Terminal Control		Cowly West Sector (COWLY W)
+121.225		London Terminal Control		Redfa Sector (REDFA)
+121.275		London Terminal Control		Bovingdon Sector (BNN)
+121.500		Emergency & Distress            International Distress
+123.225		London Control		        Standby
+123.900		London Terminal Control		Lambourne Sector (LAM)
+124.600		London Area Control		Flight Information Service East Sector
+124.750		London Area Control		Flight Information Service West Sector
+124.930		London Terminal Control		Dagga Sector (DAGGA)
+125.475		London Area Control		Flight Information Service North Sector
+126.075		London Area Control		Sector 06 - Berry Head (S06)
+126.075		London Area Control		Sector 06 - Berry Head (S06)
+126.780		London Area Control		Sector 11- North Sea (S11)
+126.875		London Area Control		North Group Standby
+127.105		London Area Control		Sector 28 - Daventry North (S28)
+127.430		London Area Control		Sector 02 - London Upper Sector East (S02)
+127.700		London Area Control		West Group Standby
+127.825		London Area Control		Sector 22 - Hurn (S22)
+127.880		London Area Control		Sector 34 - Daventry North (S34)
+127.955		London Terminal Control		Vaton Sector (VATON)
+128.125		London Area Control		Sector 10 - North Sea (S10)
+128.160		London Area Control		Sector 13 - Clacton West (S13)
+128.425		London Area Control		Sector 17 - Lydd (S17)
+128.480		London Terminal Control		Welin East Sector (WELIN E)
+128.815		London Area Control		Sector 36 - Exmor (S36)
+129.025		TC Gatwick (EGKK)		Standby
+129.050		London Control		        Standby
+129.080		London Terminal Control		Ockham Sector (OCK)
+129.205		London Area Control		Sector 27 - Daventry South (S27)
+129.280		London Terminal Control		Lorel Sector (LOREL)
+129.375		London Area Control		Sector 08 - Strumble (S08)
+129.425		London Area Control		Sector 20 (S20) / Sector 21 (S21) - Hurn
+129.605		London Terminal Control		Saber Sector (SABER)
+130.925		London Terminal Control		Welin West Sector (WELIN W)
+131.050		Western Radar		        Standby
+131.125		London Area Control		Sector 27 - Daventry South (S27)
+131.130		London Terminal Control		North West Arrivals (NW ARR)
+132.125		London Area Control		Sector 03 - Lakes (S03)
+132.165		London Area Control		Sector 25 - London Middle Sector West (S25)
+132.300		London Area Control		Sector 21 - Hurn Low (S21)
+132.300		Western Radar		        Western Radar
+132.450		London Area Control		Sector 25 - London Middle Sector West (S25)
+132.605		London Area Control		Sector 26 - London Middle Sector East (S26)
+132.840		London Area Control		Sector 01 - London Upper Sector West (S01)
+132.860		London Area Control		Sector 04 - Lakes (S04)
+132.950		London Area Control		Sector 09 - Lands End (S09)
+133.080		London Terminal Control		Cowly East Sector (COWLY E)
+133.175		London Terminal Control		Willo Sector (WILLO)
+133.225		London Area Control		Sector 08 - Strumble (S08)
+133.450		London Area Control		Sector 12 - Clacton East
+133.450		London Terminal Control		South East Low Sector (SE LOW)
+133.525		London Area Control		East Group Standby
+133.600		London Area Control		Sector 05 - Brecon (S05)
+133.705		London Area Control		Sector 03 - Lakes (S03)
+133.940		London Area Control		Sector 12 - Clacton East (S12)
+133.975		London Terminal Control		East, North, Midland & Capital Standby
+134.125		London Terminal Control		South West Departures (SW DEPS)
+134.250		London Control		        Standby
+134.390		London Area Control		Sector 32 - Daventry South (S32)
+134.450		London Area Control		Sector 16 - Dover Low (S16)
+134.460		London Area Control		Sector 24 - London Upper Sector North (S24)
+134.750		London Area Control		Sector 23 - Bristol (S23)
+134.900		London Area Control		Sector 15 - Dover Low (S15)
+135.050		London Area Control		Sector 19 - Hurn (S19)
+135.250		London Area Control		Berry Head Standby
+135.255		London Area Control		Sector 35 - Pembroke (S35)
+135.325		London Area Control		South East
+135.425		London Area Control		Sector 32 - Daventry South (S32)
+135.425		London Terminal Control		Logan Sector (LOGAN)
+135.540		London Area Control		Sector 06 - Berry Head
+135.580		London Area Control		Sector 07 - Lakes (S07)
+135.800		London Terminal Control		Compton Sector (CPT)
+136.200		TC Stansted (EGSS)		Final Director (SS FIN)
+136.275		London Control		        Standby
+136.550		London Control		        Standby
+136.600		London Area Control		Sector 16 - Dover High (S16)
+
+London Swanwick Control Frequencies
